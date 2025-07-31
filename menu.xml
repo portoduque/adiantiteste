@@ -81,6 +81,11 @@
                 <icon>fa:life-ring fa-fw</icon>
                 <action>EmbeddedSistemaView</action>
             </menuitem>
+
+            <menuitem label='Tabelas'>
+                <icon>fa:life-ring fa-fw</icon>
+                <action>TableView</action>
+            </menuitem>
         </menu>
         
     </menuitem>
