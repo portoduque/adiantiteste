@@ -61,6 +61,26 @@
                 <icon>fa:life-ring fa-fw</icon>
                 <action>ModalWindowView</action>
             </menuitem>
+
+            <menuitem label='Janela lateral'>
+                <icon>fa:life-ring fa-fw</icon>
+                <action>SidePageView</action>
+            </menuitem>
+
+            <menuitem label='PDF Embarcado'>
+                <icon>fa:life-ring fa-fw</icon>
+                <action>EmbeddedPDFView</action>
+            </menuitem>
+
+            <menuitem label='Vídeo Embarcado'>
+                <icon>fa:life-ring fa-fw</icon>
+                <action>EmbeddedVideoView</action>
+            </menuitem>
+
+            <menuitem label='Sistema Embarcado'>
+                <icon>fa:life-ring fa-fw</icon>
+                <action>EmbeddedSistemaView</action>
+            </menuitem>
         </menu>
         
     </menuitem>
