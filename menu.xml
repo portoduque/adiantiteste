@@ -119,6 +119,18 @@
         </menu>
         
     </menuitem>
+
+    <menuitem label='Banco de dados'>
+        <icon>fa:cube fa-fw</icon>
+        <menu>
+            <menuitem label='Ver módulos'>
+                <icon>fa:cube fa-fw</icon>
+                <action>SystemModulesCheckView</action>
+            </menuitem>
+
+        </menu>
+    </menuitem>
+
     <menuitem label='Configuração'>
         <icon>fa:cog fa-fw</icon>
         <menu>
