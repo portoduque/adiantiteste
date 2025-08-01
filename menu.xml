@@ -86,6 +86,36 @@
                 <icon>fa:life-ring fa-fw</icon>
                 <action>TableView</action>
             </menuitem>
+
+            <menuitem label='Painel Group'>
+                <icon>fa:life-ring fa-fw</icon>
+                <action>PanelGroupView</action>
+            </menuitem>
+
+            <menuitem label='Página de rolagem/scroll'>
+                <icon>fa:life-ring fa-fw</icon>
+                <action>ScrollView</action>
+            </menuitem>
+
+            <menuitem label='Página de notabook/abas'>
+                <icon>fa:life-ring fa-fw</icon>
+                <action>NotebookView</action>
+            </menuitem>
+
+            <menuitem label='Página de Vbox'>
+                <icon>fa:life-ring fa-fw</icon>
+                <action>VBoxView</action>
+            </menuitem>
+
+            <menuitem label='Página de pergunta'>
+                <icon>fa:life-ring fa-fw</icon>
+                <action>QuestionView</action>
+            </menuitem>
+
+        <menuitem label='Página de dialogo de input'>
+                <icon>fa:life-ring fa-fw</icon>
+                <action>DialogInputView</action>
+            </menuitem>
         </menu>
         
     </menuitem>
