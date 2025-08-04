@@ -123,9 +123,46 @@
     <menuitem label='Banco de dados'>
         <icon>fa:cube fa-fw</icon>
         <menu>
-            <menuitem label='Ver módulos'>
+            <menuitem label='Conexão Manual'>
                 <icon>fa:cube fa-fw</icon>
-                <action>SystemModulesCheckView</action>
+                <action>ConexaoManual</action>
+            </menuitem>
+
+            <menuitem label='Conexão Prepare'>
+                <icon>fa:cube fa-fw</icon>
+                <action>ConexaoPrepare</action>
+            </menuitem>
+
+            
+            <menuitem label='Objeto Store'>
+                <icon>fa:cube fa-fw</icon>
+                <action>ObjectStore</action>
+            </menuitem>
+
+            <menuitem label='Objeto Create'>
+                <icon>fa:cube fa-fw</icon>
+                <action>ObjectCreate</action>
+            </menuitem>
+
+            <menuitem label='Objeto Load'>
+                <icon>fa:cube fa-fw</icon>
+                <action>ObjectLoad</action>
+            </menuitem>
+
+            <menuitem label='Objeto Find'>
+                <icon>fa:cube fa-fw</icon>
+                <action>ObjectFind</action>
+            </menuitem>
+
+            <menuitem label='Objeto Update'>
+                <icon>fa:cube fa-fw</icon>
+                <action>ObjectUpdate</action>
+            </menuitem>
+            
+            
+            <menuitem label='Objeto Delete'>
+                <icon>fa:cube fa-fw</icon>
+                <action>ObjectDelete</action>
             </menuitem>
 
         </menu>
